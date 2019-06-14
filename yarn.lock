@@ -1458,10 +1458,10 @@ mem@^1.1.0:
   dependencies:
     mimic-fn "^1.0.0"
 
-micro-cors@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/micro-cors/-/micro-cors-0.1.1.tgz#af7a480182c114ffd1ada84ad9dffc52bb4f4054"
-  integrity sha512-6WqIahA5sbQR1Gjexp1VuWGFDKbZZleJb/gy1khNGk18a6iN1FdTcr3Q8twaxkV5H94RjxIBjirYbWCehpMBFw==
+micro-cors@^1.0.0-alpha.2:
+  version "1.0.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/micro-cors/-/micro-cors-1.0.0-alpha.2.tgz#7f23839fcd1b2fd67948cdbdf43d18107dfd86eb"
+  integrity sha512-/LZALrmdjdDSMNb8lZXdfzBcFv3fDY3cGEACcSsCCLxFaYnh3nu2ePYdRKZp6PNSwXH6m5FpdohQQ+YdKgCkAQ==
 
 micro-dev@^3.0.0:
   version "3.0.0"
