@@ -1,0 +1,19 @@
+[
+  { "name": "navy", "value": "#001F3F" },
+  { "name": "blue", "value": "#0074D9" },
+  { "name": "aqua", "value": "#7FDBFF" },
+  { "name": "teal", "value": "#39CCCC" },
+  { "name": "olive", "value": "#3D9970" },
+  { "name": "green", "value": "#2ECC40" },
+  { "name": "lime", "value": "#01FF70" },
+  { "name": "yellow", "value": "#FFDC00" },
+  { "name": "orange", "value": "#FF851B" },
+  { "name": "red", "value": "#FF4136" },
+  { "name": "fuchsia", "value": "#F012BE" },
+  { "name": "purple", "value": "#B10DC9" },
+  { "name": "maroon", "value": "#85144B" },
+  { "name": "white", "value": "#FFFFFF" },
+  { "name": "silver", "value": "#DDDDDD" },
+  { "name": "gray", "value": "#AAAAAA" },
+  { "name": "black", "value": "#111111" }
+]
