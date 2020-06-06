@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-micro": "^2.4.8",
+    "apollo-server-micro": "^2.14.2",
     "graphql": "^14.1.1",
     "micro": "^9.3.4",
     "micro-cors": "^1.0.0-alpha.2",
